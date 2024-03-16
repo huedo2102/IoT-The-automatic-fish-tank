@@ -6,6 +6,12 @@
 - Màn hình LCD hiển thị thông tin.
 - Kết nối mạng và IoT 
 
+
+
+https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/5469b3d8-370e-44f1-a546-0dd3dcd13102
+
+
+
 **Hệ thống phần cứng:**
 - ESP8266 NodeMCU Lua V3 CH340
 - Arduino Uno R3
