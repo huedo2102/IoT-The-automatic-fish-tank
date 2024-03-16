@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "347699735358",
+    "firebase_url": "https://smart-aquaeium-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-aquaeium",
+    "storage_bucket": "smart-aquaeium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347699735358:android:f5f6bfed617cc798e59a6f",
+        "android_client_info": {
+          "package_name": "com.cs362.smartaquarium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAijfIusyAeyua4YZDckEAmR2gSXHaAdNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
