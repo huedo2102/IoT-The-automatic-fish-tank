@@ -46,12 +46,16 @@ https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/5469b3
 
 ![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/c61d40fc-267a-4336-b635-ee8394f86085)
 
+**Hình ảnh hệ thống:**
 
 ![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/3e58b847-d270-400f-9eac-abb162baa43e)
 
 
+**Giao diện ứng dụng điều khiển trên Smart phone:**
+
 ![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/d1ae3d32-a503-415b-bdb0-e7d16cc791ac)
 
+**Firebase:**
 
 ![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/fce30506-22d8-4857-8cb6-7b3c354646e2)
 
