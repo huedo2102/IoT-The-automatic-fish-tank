@@ -1,6 +1,6 @@
 # IoT-The-automatic-fish-tank
 **Mô hình hệ thống hỗ trợ nuôi cá tự động có các tính năng sau:**
-- Tự động và bán tự động cho cá ăn.
+- Cho cá ăn và hẹn giờ cho cá ăn từ xa (chỉ cần có kết nối wifi có thể cho cá ăn từ bất kì đâu, khoảng cách nào)
 - Kiểm tra nhiệt độ nước.
 - Điều chỉnh ánh sáng.
 - Màn hình LCD hiển thị thông tin.
